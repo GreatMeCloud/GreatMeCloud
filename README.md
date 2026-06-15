@@ -1,4 +1,4 @@
-![GitHub Banner](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftenor.com%2Fview%2Foiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779&ved=0CBUQjRxqFwoTCODgusO_iZUDFQAAAAAdAAAAABA8&opi=89978449)
+![GitHub Banner](https://media.tenor.com/AN83u7YyqwUAAAAM/maxwell-the-cat.gif)
 <!--
 **GreatMeCloud/GreatMeCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
