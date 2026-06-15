@@ -1,5 +1,5 @@
-![GitHub Banner](https://media.tenor.com/AN83u7YyqwUAAAAM/maxwell-the-cat.gif)
-![GitHub Banner]([https://media.tenor.com/AN83u7YyqwUAAAAM/maxwell-the-cat.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93f610b8-9e62-4c2f-9d93-f06034214fd4/dirgcz4-588d42be-952a-4c81-b6d1-95ba5d7c5cbc.gif))
+![](https://media.tenor.com/AN83u7YyqwUAAAAM/maxwell-the-cat.gif)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93f610b8-9e62-4c2f-9d93-f06034214fd4/dirgcz4-588d42be-952a-4c81-b6d1-95ba5d7c5cbc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85M2Y2MTBiOC05ZTYyLTRjMmYtOWQ5My1mMDYwMzQyMTRmZDQvZGlyZ2N6NC01ODhkNDJiZS05NTJhLTRjODEtYjZkMS05NWJhNWQ3YzVjYmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yDNlle_ruUnVa6eS2DuGC8907u1FF7Eeg9Qf8POmJ7Y)
 
 <!--
 **GreatMeCloud/GreatMeCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
